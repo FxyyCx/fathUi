@@ -1349,7 +1349,7 @@ local myConfig = ConfigManager:CreateConfig("LegendConfig")
 WindUI:SetNotificationLower(true)
 
 WindUI:Notify({
-    Title = "LegendHub",
+    Title = "LfathhHub",
     Content = "All Features Loaded!",
     Duration = 5,
     Image = "square-check-big"
