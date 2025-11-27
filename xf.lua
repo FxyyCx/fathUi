@@ -1331,7 +1331,7 @@ local Window = WindUI:CreateWindow({
 })
 
 Window:EditOpenButton({
-    Title = "LegendHub",
+    Title = "lfath-Hub",
     Icon = "star",
     CornerRadius = UDim.new(0,30),
     StrokeThickness = 2,
