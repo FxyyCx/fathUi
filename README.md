@@ -29,6 +29,3 @@
 - [Installation](https://footagesus.github.io/WindUI-Docs/docs/installation)
 
 - [Example](/main_example.lua) (wip)
-  ```luau
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/main_example.lua'))()
-  ```
